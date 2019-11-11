@@ -11,6 +11,8 @@
 #include <chrono>
 #include <algorithm>
 #include <cassert>
+#include <cmath>
+#include <cstdlib>
 
 #include "PrivateCluster.h"
 #include "Concurrent.h"

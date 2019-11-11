@@ -13,6 +13,5 @@ enum class Error {
 };
 
 std::ostream &operator<<(std::ostream &stream, Error nError);
-std::string ErrorToStr(Error nError);
 
 #endif //CLUSTERING_ERROR_H

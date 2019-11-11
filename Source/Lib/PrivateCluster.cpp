@@ -6,6 +6,7 @@
 #include <ostream>
 #include <cassert>
 #include <sstream>
+#include <cmath>
 
 
 PrivateCluster::PrivateCluster(const Point &Centroid) :

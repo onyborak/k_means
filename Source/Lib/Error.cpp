@@ -3,6 +3,7 @@
 //
 
 #include <Error.h>
+#include <ostream>
 
 
 std::ostream &operator<<(std::ostream &stream, Error nError) {
